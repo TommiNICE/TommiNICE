@@ -1,6 +1,7 @@
 # Hello, I'm Tommi 👋
 
-Welcome to my GitHub profile! I'm passionate about web development and about contributing to open source projects. Here's a little more about me:
+Welcome to my GitHub profile! I'm passionate about web development. I'm particularly interested in contributing to open-source projects and collaborating with others to create impactful, community-driven software. My focus is on delivering clean, maintainable code and continuously improving my abilities. Let's connect and build something innovative together!
+Here's a little more about me:
 
 ## 🚀 About Me
 
