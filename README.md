@@ -35,8 +35,7 @@ Welcome to my GitHub profile! I'm passionate about web development and about con
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📈 GitHub Stats
-
-![Tommi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TommiNICE&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TommiNICE&layout=compact&theme=shadow_green&langs_count=8)
 
 ## 🏆 My GitHub Trophies
 
