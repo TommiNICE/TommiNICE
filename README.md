@@ -36,7 +36,7 @@ Here's a little more about me:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📈 GitHub Stats
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TommiNICE&layout=compact&theme=shadow_green&langs_count=8)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TommiNICE&layout=compact&theme=default&langs_count=8)
 
 ## 🏆 My GitHub Trophies
 
