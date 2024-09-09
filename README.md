@@ -5,7 +5,8 @@ Here's a little more about me:
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: [Your current projects or what you're focusing on]
+- 🔭 I’m currently working on:
+    a Weather Dashboard App using the MERN stack. Here's the link to the [repository](https://github.com/TommiNICE/weather-dashboard/tree/main)
 - 🌱 I’m currently learning: [Technologies or skills you're learning]
 - 👯 I’m looking to collaborate on: [Projects or types of collaborations you're interested in]
 - 💬 Ask me about: [Topics you're knowledgeable about and can help others with]
