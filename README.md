@@ -1,6 +1,7 @@
 # Hello, I'm Tommi 👋
 
-Welcome to my GitHub profile! I'm passionate about web development. I'm particularly interested in contributing to open-source projects and collaborating with others to create impactful, community-driven software. My focus is on delivering clean, maintainable code and continuously improving my abilities. Let's connect and build something innovative together!
+Welcome to my GitHub profile! I'm passionate about web development. My goal is to become proficient in coding Web Applications so I can make a living out of it.
+
 Here's a little more about me:
 
 ## 🚀 About Me
@@ -47,4 +48,4 @@ Here's a little more about me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tom-varga-73b656b9/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://x.com/TomSolo1984)
-[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=flat&logo=firefox-browser)](Your Portfolio URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=flat&logo=firefox-browser)]
