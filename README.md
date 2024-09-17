@@ -7,7 +7,7 @@ Here's a little more about me:
 ## 🚀 About Me
 
 - 🔭 I’m currently working on:
-    a Weather Dashboard App using the MERN stack. Here's the link to the [repository](https://github.com/TommiNICE/weather-dashboard/tree/main)
+    a Weather Dashboard App using the MERN stack.
 - 🌱 I’m currently learning: React, Express, Tailwind and JavaScript
 - 👯 I’m looking to collaborate on: open to almost everything, as long as it foster sustainability.
 - 💬 Ask me about: I am not expert, but I can help you with HTML, CSS, JavaScript and a little bit about the libraries and frameworks I am 
