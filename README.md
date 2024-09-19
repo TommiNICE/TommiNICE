@@ -1,14 +1,14 @@
 # Hello, I'm Tommi 👋
 
-Welcome to my GitHub profile! I'm passionate about web development. My goal is to become proficient in coding Web Applications so I can make a living out of it.
+## Welcome to my GitHub profile! 
+I am passionate about web development and constantly striving to enhance my skills in building Web Applications. My goal is to turn this passion into a professional career. From September 16th, 2024, to March 2nd, 2025, I will be attending an online Coding Bootcamp sponsored by TechLabs. I'm thrilled to have been accepted, and this program, alongside my work, will be my top priority. I'm excited to grow through this opportunity and apply what I learn to create innovative web solutions.
 
 Here's a little more about me:
-
 ## 🚀 About Me
 
 - 🔭 I’m currently working on:
-    a Weather Dashboard App using the MERN stack.
-- 🌱 I’m currently learning: React, Express, Tailwind and JavaScript
+    from December this year I will work and collaborate with others on a project. That's part of the coding bootcamp
+- 🌱 I’m currently learning: JavaScript, React, Tailwind Express.js, Node.js
 - 👯 I’m looking to collaborate on: open to almost everything, as long as it foster sustainability.
 - 💬 Ask me about: I am not expert, but I can help you with HTML, CSS, JavaScript and a little bit about the libraries and frameworks I am 
      currently learning.
