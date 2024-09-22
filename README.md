@@ -8,7 +8,7 @@ Here's a little more about me:
 
 - 🔭 I’m currently working on:
     from December this year I will work and collaborate with others on a project. That's part of the coding bootcamp
-- 🌱 I’m currently learning: JavaScript, React, Tailwind Express.js, Node.js
+- 🌱 I’m currently learning: JavaScript, React, Tailwind, Express.js, Node.js
 - 👯 I’m looking to collaborate on: open to almost everything, as long as it foster sustainability.
 - 💬 Ask me about: I am not expert, but I can help you with HTML, CSS, JavaScript and a little bit about the libraries and frameworks I am 
      currently learning.
