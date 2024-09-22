@@ -1,6 +1,6 @@
 # Hello, I'm Tommi 👋
 
-## Welcome to my GitHub profile! 
+**Welcome to my GitHub profile!** 
 I am passionate about web development and constantly striving to enhance my skills in building Web Applications. My goal is to turn this passion into a professional career. From September 16th, 2024, to March 2nd, 2025, I will be attending an online Coding Bootcamp sponsored by TechLabs. I'm thrilled to have been accepted, and this program, alongside my work, will be my top priority. I'm excited to grow through this opportunity and apply what I learn to create innovative web solutions.
 
 Here's a little more about me:
