@@ -7,9 +7,9 @@ Here's a little more about me:
 ## 🚀 About Me
 
 - 🔭 I’m currently working on:
-    from December this year I will work and collaborate with others on a project. That's part of the coding bootcamp
+    from December this year I will work and collaborate with others from the bootcamp on a final project. I participate in the Hacktoberfest 2024.
 - 🌱 I’m currently learning: JavaScript, React, Tailwind, Express.js, Node.js
-- 👯 I’m looking to collaborate on: open to almost everything, as long as it foster sustainability.
+- 👯 I’m looking to collaborate on: open to almost everything, as long as it foster sustainability and peace.
 - 💬 Ask me about: I am not expert, but I can help you with HTML, CSS, JavaScript and a little bit about the libraries and frameworks I am 
      currently learning.
 - 📫 How to reach me: Below are links to my LinkedIn Profile and X account
