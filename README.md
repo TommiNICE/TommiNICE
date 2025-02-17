@@ -1,18 +1,28 @@
 # Hello, I'm Tommi 👋
 
 **Welcome to my GitHub profile!** 
-I am passionate about web development and constantly striving to enhance my skills in building Web Applications. My goal is to turn this passion into a professional career. From September 16th, 2024, to March 2nd, 2025, I will be attending an online Coding Bootcamp sponsored by TechLabs. I'm thrilled to have been accepted, and this program, alongside my work, will be my top priority. I'm excited to grow through this opportunity and apply what I learn to create innovative web solutions.
+I am a passionate web developer, continuously expanding my skills in building web applications. As I near the completion of my online coding bootcamp (TechLabs) on March 2nd, 2025, I feel ready to take on a junior web developer role and apply my knowledge in a professional setting.  
+
+To further strengthen my expertise, I have also started an AWS Cloud Developer course to deepen my understanding of cloud technologies. My journey has been driven by a commitment to learning, problem-solving, and creating innovative web solutions. I'm eager to contribute to real-world projects and collaborate with like-minded professionals to build scalable and impactful applications.  
 
 Here's a little more about me:
 ## 🚀 About Me
 
-- 🔭 I’m currently working on:
-    from December this year I will work and collaborate with others from the bootcamp on a final project.
-- 🌱 I’m currently learning: JavaScript, React, Tailwind, Express.js, Node.js and Docker
-- 👯 I’m looking to collaborate on: open to almost everything, as long as it foster sustainability and peace.
-- 💬 Ask me about: I am not expert, but I can help you with HTML, CSS, JavaScript and a little bit about the libraries and frameworks I am 
-     currently learning.
-- 📫 How to reach me: Below are links to my LinkedIn Profile and X account
+- 🔭 **Currently Working On:**  
+  - Final project for my online coding bootcamp  
+  - AWS Cloud Developer Course sponsored by RS School  
+
+- 🌱 **Currently Learning:**  
+  JavaScript, TypeScript, Express.js, Node.js, Docker and AWS  
+
+- 👯 **Open to Collaboration On:**  
+  Any project that promotes sustainability and peace  
+
+- 💬 **Ask Me About:**  
+  While I'm not an expert, I can help with HTML, CSS, JavaScript, and the libraries/frameworks I'm currently learning  
+
+- 📫 **How to Reach Me:**  
+  Check out my LinkedIn and X profiles below  
 
 ## 🛠️ Languages and Tools
 
@@ -41,6 +51,7 @@ Here's a little more about me:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 📈 GitHub Stats
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TommiNICE&layout=compact&theme=default&langs_count=8)
