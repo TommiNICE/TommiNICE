@@ -1,16 +1,16 @@
 # Hello, I'm Tommi 👋
 
 **Welcome to my GitHub profile!** 
-I am a passionate web developer, continuously expanding my skills in building web applications. As I near the completion of my online coding bootcamp (TechLabs) on March 2nd, 2025, I feel ready to take on a junior web developer role and apply my knowledge in a professional setting.  
+I am a passionate web developer, continuously expanding my skills in building web applications. I have successfully completed my online coding bootcamp (TechLabs) and am now open to job opportunities as a junior web developer, ready to apply my knowledge in a professional setting.
 
-To further strengthen my expertise, I have also started an AWS Cloud Developer course to deepen my understanding of cloud technologies. My journey has been driven by a commitment to learning, problem-solving, and creating innovative web solutions. I'm eager to contribute to real-world projects and collaborate with like-minded professionals to build scalable and impactful applications.  
+To further strengthen my expertise, I have also started an AWS Cloud Developer course to deepen my understanding of cloud technologies. My journey has been driven by a commitment to learning, problem-solving, and developing efficient and user-friendly web applications. I'm eager to contribute to real-world projects and collaborate with like-minded professionals to build scalable and impactful applications.  
 
 Here's a little more about me:
 ## 🚀 About Me
 
 - 🔭 **Currently Working On:**  
-  - Final project for my online coding bootcamp  
-  - AWS Cloud Developer Course sponsored by RS School  
+  - AWS Cloud Developer Course sponsored by RS School
+  - My portfolio page
 
 - 🌱 **Currently Learning:**  
   JavaScript, TypeScript, Express.js, Node.js, Docker and AWS  
