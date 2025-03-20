@@ -22,7 +22,7 @@ Here's a little more about me:
   While I'm not an expert, I can help with HTML, CSS, JavaScript, and the libraries/frameworks I'm currently learning  
 
 - 📫 **How to Reach Me:**  
-  Check out my LinkedIn and X profiles below  
+  Check out my LinkedIn profile below  
 
 ## 🛠️ Languages and Tools
 
@@ -63,5 +63,4 @@ Here's a little more about me:
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tom-varga-73b656b9/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://x.com/TomSolo1984)
 
